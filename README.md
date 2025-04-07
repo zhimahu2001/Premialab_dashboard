@@ -17,7 +17,7 @@ To use this dashboard, you need to download all files from the directory to a lo
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/zhimahu2001/Premialab_dashboard.git
     ```
 2. **Navigate to the directory**:
     ```bash
